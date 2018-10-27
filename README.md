@@ -1,1 +1,5 @@
-# DC_guonengrixin
+＃ DC_guonengrixin
+## 国能日新太阳辐射指数预测算法竞赛baseline
+数据做了简单的清洗
+模型选用的是线性回归
+线上分数 0.17339 排名22
